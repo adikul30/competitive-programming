@@ -1,3 +1,0 @@
-Case #1 : No second way
-Case #2 : 8
-Case #3 : 2
